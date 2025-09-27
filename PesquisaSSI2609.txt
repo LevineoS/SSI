@@ -1,0 +1,9 @@
+Fazer introdução sobre DoS e DDoS
+
+1 - Qual é o principal objetivo de um ataque de Negação de Serviço (DoS)?
+2 - Qual a principal diferença entre um ataque DoS e um DDoS?
+3 - O que é uma 'botnet' no contexto de um ataque DDoS?
+4 - Um ataque DoS é mais fácil de rastrear e bloquear do que um ataque DDoS? Justifique:
+5 - Um servidor web que fica lento e inacessível devido a um volume massivo de solicitações de uma rede de milhares de dispositivos zumbis está sendo vítima de qual tipo de ataque?
+6 - Cite algumas ações é uma estratégia de mitigação comum contra ataques DDoS?
+7 - Um ataque DDoS é considerado mais perigoso do que um ataque DoS por causa de qual característica?
